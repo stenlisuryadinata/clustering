@@ -1,1 +1,2 @@
-# clustering
+# Visualizing the stock market structure
+
